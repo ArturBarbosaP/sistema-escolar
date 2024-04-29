@@ -1,0 +1,67 @@
+.tudo{
+    background-color: #6c7a89;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.login{
+    background-color: white;
+    height: auto;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #383838;
+
+}
+
+body{
+    background-color: #6c7a89;
+}
+
+.row{
+
+}
+.col-md-4{
+
+    padding: 25px;
+    text-align: center;
+}
+
+.card_alunos{
+    background: linear-gradient(#627419, #5a6056);
+}
+.card_professor{
+    background: linear-gradient(#744721, #a89d82);
+}
+.card_curso{
+    background: linear-gradient(#741917, #604c48);
+}
+
+.card_disciplina{
+    background: linear-gradient(#2b742d, #59a393);
+}
+
+.card_funcionario{
+    background: linear-gradient(#233a59, #8e8c9f);
+}
+.card-title{
+    background-color: #1b1e21;
+    color: #ffffff;
+    font-size: 20px;
+}
+.card-body{
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.lista {
+    background-color: #ffffff;
+    position: relative;
+    top: 30px;
+    padding: 20px;
+}
